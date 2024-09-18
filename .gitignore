@@ -1,0 +1,14 @@
+
+*.svwf
+*.lef
+*.hcell
+*.lib
+*.pglib
+*.tessent
+*.bak
+project/
+*.sw*
+*.txt
+*.scr~
+*.sv~
+
